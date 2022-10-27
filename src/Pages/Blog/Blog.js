@@ -15,7 +15,7 @@ const Blog = () => {
             <Accordion.Item eventKey="1">
                 <Accordion.Header>Why are you using firebase? What other options do you have to implement authentication?</Accordion.Header>
                 <Accordion.Body>
-                LearnWithFun supports several different payment methods, depending on your account country and location. 
+                    The Firebase Realtime Database lets us build rich, collaborative applications by allowing secure access to the database directly from client-side code. Data is persisted locally, and even while offline, realtime events continue to fire, giving the end user a responsive experience.
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="2">
