@@ -21,7 +21,7 @@ const CourseDetails = () => {
             <Card className='my-3'>
                 <Card.Img variant="top" className='h-50' src={img} />
                 <Card.Body>
-                    <p className='fw-bold py-3'>Course Code : {code}</p>
+                    <p className='fw-bold py-3'>Course Code : </p>
                     <Card.Title><h3 className='fw-bold'>Course Outline</h3></Card.Title>
                     <Card.Text>
                         <div>
