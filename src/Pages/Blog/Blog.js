@@ -13,7 +13,7 @@ const Blog = () => {
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="1">
-                <Accordion.Header>How can I pay for a course?</Accordion.Header>
+                <Accordion.Header>Why are you using firebase? What other options do you have to implement authentication?</Accordion.Header>
                 <Accordion.Body>
                 LearnWithFun supports several different payment methods, depending on your account country and location. 
                 </Accordion.Body>
