@@ -1,0 +1,17 @@
+img{
+    height:60px;
+    width:60px;
+}
+.showName{
+    display: block;
+}
+.hideName{
+    display:none;
+}
+.visible{
+    position: absolute;
+    background-color:gray;
+    padding:5px;
+    margin-top:10px;
+    z-index:1;
+}
