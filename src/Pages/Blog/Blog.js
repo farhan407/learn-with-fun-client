@@ -20,7 +20,7 @@ const Blog = () => {
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="2">
-                <Accordion.Header>What do LearnWithFun courses include?</Accordion.Header>
+                <Accordion.Header>How does the private route work?</Accordion.Header>
                 <Accordion.Body>
                     Each course is created, owned and managed by the instructor(s). The foundation of each  course are its lectures, which can include videos, slides, and text. In addition, instructors can add resources and various types of practice activities, as a way to enhance the learning experience of students. 
                 </Accordion.Body>
