@@ -1,6 +1,6 @@
 # Learn With Fun
 ****
-## Live site link:
+[Live site link](https://learn-with-fun-9e5a8.web.app/)
 ****
 ### Features and functionality
 ****
