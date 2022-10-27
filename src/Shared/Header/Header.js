@@ -6,7 +6,7 @@ import { AuthContext } from '../../Utilities/Context/UserContext';
 import './Header.css'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
+import logo from '../../Images/logo.png'
 const Header = () => {
     const {user,logOut}= useContext(AuthContext)
     const [userName,setUserName]=useState(false)
@@ -22,7 +22,7 @@ const Header = () => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
             <Container>
-                <Navbar.Brand className='fw-bold'><Link to='/'><img className='me-4' src="images/logo.png" alt="" /></Link>LearnWithFun</Navbar.Brand>
+                <Navbar.Brand className='fw-bold'><Link to='/'><img className='me-4' src={logo} alt="" /></Link>LearnWithFun</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="ms-auto">
