@@ -28,7 +28,8 @@ const Blog = () => {
             <Accordion.Item eventKey="3">
                 <Accordion.Header>What is Node? How does Node work?</Accordion.Header>
                 <Accordion.Body>
-                If you find you have a question about a paid course while you’re taking it, you can search for answers to your question in the Q&A or ask the instructor. 
+                    Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
+                    It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node. js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive.
                 </Accordion.Body>
             </Accordion.Item>
         </Accordion>
