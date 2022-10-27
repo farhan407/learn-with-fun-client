@@ -26,7 +26,7 @@ const Blog = () => {
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="3">
-                <Accordion.Header>Where can I go for help?</Accordion.Header>
+                <Accordion.Header>What is Node? How does Node work?</Accordion.Header>
                 <Accordion.Body>
                 If you find you have a question about a paid course while you’re taking it, you can search for answers to your question in the Q&A or ask the instructor. 
                 </Accordion.Body>
