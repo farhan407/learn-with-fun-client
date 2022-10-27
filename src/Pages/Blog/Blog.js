@@ -22,7 +22,7 @@ const Blog = () => {
             <Accordion.Item eventKey="2">
                 <Accordion.Header>How does the private route work?</Accordion.Header>
                 <Accordion.Body>
-                    Each course is created, owned and managed by the instructor(s). The foundation of each  course are its lectures, which can include videos, slides, and text. In addition, instructors can add resources and various types of practice activities, as a way to enhance the learning experience of students. 
+                    Private Routes in React Router (also called Protected Routes) require a user being authorized to visit a route (read: page). So if a user is not authorized for a specific page, they cannot access it. The most common example is authentication in a React application where a user can only access the protected pages when they are authorized (which means in this case being authenticated). Authorization goes beyond authentication though. For example, a user can also have roles and permissions which give a user access to specific areas of the application.
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="3">
